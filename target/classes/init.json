@@ -1,0 +1,14 @@
+{
+  "current_turn": 1,
+  "50_move_rule_turns": 0,
+  "username": "",
+  "black": [{
+    "type": "king",
+    "pos": "b3",
+    "first_turn": -1
+  }, {
+    "type": "knight",
+    "pos": "c3",
+    "first_turn": -1
+  }]
+}
